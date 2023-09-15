@@ -16,6 +16,10 @@
 - Learn about the lifecycle of Stateful Widgets and how to override them.
 - How to use the Geolocator package to get live location data for both iOS and Android.
 - How to use the TextField Widget to take user input.
+  
+![clima-demo-min](https://github.com/Maninder2400/Clima/assets/109415722/a6d6bb53-a2ba-4186-9d6f-3684329fe047)
+
+  
 
 
 
